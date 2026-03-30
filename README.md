@@ -1,11 +1,4 @@
-# 📡 Computer Networks Lab Repository
-
-## 👩‍💻 Student Details
-- **Name:** Khyati  
-- **Register Number:** 24BCE5031  
-- **Course:** BCSE308P – Computer Networks Lab  
-
----
+# 📡 Computer Networks Lab 
 
 ## 📂 Repository Structure
 
